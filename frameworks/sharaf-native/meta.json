@@ -1,0 +1,12 @@
+{
+  "display_name": "Sharaf (Scala Native)",
+  "language": "Scala",
+  "type": "experimental",
+  "mode": "standard",
+  "engine": "Potateh",
+  "description": "Sharaf on Scala Native with Potateh's default platform-thread executor. Plain HTTP and compressed JSON profiles only.",
+  "repo": "https://github.com/sake92/sharaf",
+  "enabled": true,
+  "tests": ["baseline", "pipelined", "limited-conn", "json-comp"],
+  "maintainers": ["sake92"]
+}
